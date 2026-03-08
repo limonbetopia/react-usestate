@@ -31,6 +31,7 @@ function App() {
     <>
       <h1>click {cont}</h1>
       <button onClick={increbyOne}>Add</button>
+      <button onClick={incre2}>Add2</button>
     </>
   );
 }
